@@ -2,6 +2,7 @@
 using namespace std; 
 
 int main() { 
+    cout << "Input two words of equal length";
     string a;
     cin >> a;
   
